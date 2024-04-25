@@ -1,11 +1,11 @@
 import './App.css';
-import Banner from './Main/content';
-import Contact from './Main/Contact';
-import Filters from './Main/Filters';
-import Jobs from './Main/Jobs';
-import Navbar from './Main/Navbar';
-import { JobsContext } from './Main/JobsContext';
-import useCustomHook from './Main/useCustomHook';
+import Banner from './all/content';
+import Contact from './all/Contact';
+import Filters from './all/Filters';
+import Jobs from './all/Jobs';
+import Navbar from './all/Navbar';
+import { JobsContext } from './all/JobsContext';
+import useCustomHook from './all/useCustomHook';
 
 function App() {
 
